@@ -57,4 +57,4 @@ setTimeout(f3,4000);
     //msg.reply("Server is Hosted at...")
   }
 })
-client.login("NzUyODU2MDcyMTc1MjIyODA0.X1dt2g.ZRb7DWtNh3nF18VODK4oIwlSams")
+client.login("Write Your Token here-dummy line")
