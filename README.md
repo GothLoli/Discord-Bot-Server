@@ -5,3 +5,4 @@ This a example for Dedicated Terraria Server, works for Minecraft Servers as wel
 Edit .bat files for changing targets (.exe files)
 LEARN ABOUT BATCH FILES AND INSTALL NECESSARY NODE.JS LIBRARIES
 LOOK UP DISCORD.JS FOR LIBRARY DEPENDENCIES
+Pyhthon files basically look for port in nngrok log files
